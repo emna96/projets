@@ -1,0 +1,45 @@
+C:\Users\HP\source\repos\newpfa\newpfa\bin\Debug\newpfa.exe.config
+C:\Users\HP\source\repos\newpfa\newpfa\bin\Debug\newpfa.exe
+C:\Users\HP\source\repos\newpfa\newpfa\bin\Debug\newpfa.pdb
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.Form1.resources
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.Properties.Resources.resources
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.exe
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.pdb
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.Form2.resources
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.Form4.resources
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.Form5.resources
+C:\Users\HP\source\repos\newpfa\newpfa\bin\Debug\MySql.Data.dll
+C:\Users\HP\source\repos\newpfa\newpfa\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\source\repos\newpfa\newpfa\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\source\repos\newpfa\newpfa\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\source\repos\newpfa\newpfa\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\source\repos\newpfa\newpfa\bin\Debug\MySql.Data.xml
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.csproj.CopyComplete
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.Form7.resources
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.Form8.resources
+C:\Users\HP\source\repos\newpfa\newpfa\obj\Debug\newpfa.Form3.resources
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\bin\Debug\newpfa.exe.config
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\bin\Debug\newpfa.exe
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\bin\Debug\newpfa.pdb
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.Form1.resources
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.Form2.resources
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.Form3.resources
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.Form4.resources
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.Form5.resources
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.Form7.resources
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.Form8.resources
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.Properties.Resources.resources
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.csproj.CopyComplete
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.exe
+C:\Users\HP\Desktop\DREAM EVENTS\C#\newpfa\newpfa\obj\Debug\newpfa.pdb

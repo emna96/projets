@@ -1,0 +1,713 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #f7f7f7 !important;
+
+
+}
+
+
+p {
+     color: #38381e;
+    Font-Family: 'Cabin', Sans-Serif;
+    Font-Size: 16px;
+
+}
+
+a {
+    Font-Family: 'Roboto Condensed', Sans-Serif;
+
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    Font-Family: 'Roboto Condensed', Sans-Serif;
+    font-weight: bold;
+}
+
+
+.white-section {
+    background-color: white;
+}
+
+
+/* navbar*/
+
+
+nav ul li{
+    display: inline-block;
+            padding-top: 30px;
+        padding-left: 50px;
+
+    }
+
+    nav ul{
+        padding-left: 60px; ;
+    }
+    
+    nav ul li a{
+        text-decoration: none;
+        color: black;
+    }
+
+    nav ul li a:hover{
+        text-decoration: none;
+        color: #d6a34d;
+    }
+
+  
+  
+
+
+
+
+
+
+
+
+/* title */
+
+#header-index {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/woman-holding-man-s-hand-1779491.jpg);
+    height: 100vh;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    text-align: center;
+    overflow: hidden;
+}
+
+#h1-title {
+
+    color: #f5eeee;
+    padding-top: 70px;
+    padding-bottom: 20px;
+    font-size: 68px;
+    text-transform: uppercase;
+
+
+}
+
+
+
+.myButton-title-1 {
+    width: 200px;
+    height: 70px;
+    border: 2px solid #d6a34d;
+    border-radius: 40px;
+    background: transparent;
+    color: #d6a34d;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.myButton-title-1:hover {
+    background-color: #d6a34d;
+    color: #fff;
+}
+
+
+
+
+
+/* features */
+html {scroll-behavior: smooth;}
+#features {
+    position: relative;
+    padding-left: 40px;
+    text-align: center;
+    overflow: hidden;
+}
+
+#features h5 {
+    padding-top: 111px;
+    padding-bottom: 30px;
+}
+
+#features h2 {
+    padding-bottom: 40px;
+}
+
+
+
+
+.feature-box img {
+    padding-top: 90px;
+    padding-bottom: 13px;
+    cursor: pointer;
+    margin-left: 15px;
+
+
+}
+
+
+.feature-title {
+    padding-bottom: 60px;
+    color: #4b4b4d;
+    cursor: pointer;
+
+}
+
+.feature-box:hover {
+    background-color: #FFDF94;
+
+}
+
+
+
+
+/* Advantages */
+
+.adv-box {
+    color: #9e9e9e;
+    display: inline-block;
+    margin: 35px 10px 10px;
+    max-width: 310px;
+    min-width: 250px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-top: 5px solid #d6a34d;
+    box-shadow: 0 0 11px rgba(33, 33, 33, .2);
+
+
+}
+
+.adv-box img {
+    height: 80px;
+    width: 80px;
+}
+
+.adv-box figcaption {
+    padding: 13% 10% 12%;
+}
+
+
+.adv-box h3 {
+    color: #4b4b4d;
+    font-size: 23px;
+    line-height: 24px;
+    margin: 10px 0 5px;
+
+}
+
+
+.Advantages h1 {
+    text-align: center;
+    padding-top: 136px;
+    color: #474749;
+    padding-bottom: 72px;
+    text-transform: uppercase;
+
+}
+
+
+.adv-box p {
+
+    margin: 0 0 20px;
+    color: #9b9b9b;
+}
+
+.Advantages {
+    padding-bottom: 195px;
+    text-align: center;
+}
+
+
+
+.adv-box:hover {
+    box-shadow: 0 0 15px rgba(33, 33, 33, .2);
+
+}
+
+
+
+/* Contact index */
+
+#Contact-index {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), url(../img/woman-wearing-white-wedding-gown-holding-hands-with-man-1043902.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.contact-index-content {
+    text-align: center;
+}
+
+
+#h1-contact-index {
+    font-weight: 700;
+    color: #f5eeee;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 50px;
+    padding-bottom: 60px;
+    text-transform: uppercase;
+}
+
+#Contact-index p {
+    color: #f5eeee;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.myButton-contact-index {
+    width: 220px;
+    height: 70px;
+    border: 2px solid #d6a34d;
+    border-radius: 40px;
+    background: linear-gradient(90deg, rgba(248, 203, 99, 1) 0%, rgba(207, 156, 77, 1) 100%);
+
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.myButton-contact-index:hover {
+    width: 220px;
+    height: 70px;
+    border: 2px solid #d6a34d;
+    border-radius: 40px;
+    background: transparent;
+    color: #d6a34d;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mybutton-contact-index {
+    text-align: center;
+}
+
+
+/* testimonials Section */
+.testimonials {
+    color: #434343;
+    text-align: center;
+    padding-bottom: 195px;
+    padding-top: 83px;
+}
+
+.testimonials p {
+    color: gray;
+}
+
+.testimonial {
+    background: #fff;
+    padding: 30px;
+
+}
+
+.testimonials h1 {
+    text-align: center;
+    color: white;
+    color: #474749;
+    padding-bottom: 72px;
+    text-transform: uppercase;
+
+}
+
+.testimonial img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.name {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+
+
+/* budget */
+
+.budget {
+    background: linear-gradient(90deg, rgba(248, 203, 99, 1) 0%, rgba(207, 156, 77, 1) 100%);
+
+
+}
+
+.budget h1 {
+    padding-top: 76px;
+    color: white;
+    font-weight: 700;
+}
+
+.budget h5 {
+    padding-bottom: 70px;
+    color: white;
+}
+
+.mybutton-budget1 {
+
+    width: 220px;
+    height: 70px;
+    border: 2px solid white;
+    border-radius: 40px;
+    background: white;
+    color: #d6a34d;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mybutton-budget {
+    padding-top: 85px;
+    padding-bottom: 10px;
+
+    text-align: center;
+}
+
+.mybutton-budget1:hover {
+    width: 220px;
+    height: 70px;
+    border: 2px solid white;
+    border-radius: 40px;
+    background: transparent;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+/*team*/
+
+#team {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/person-fixing-dress-on-girl-1676133.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+#team h1 {
+    text-align: center;
+    padding-top: 70px;
+    color: white;
+    padding-bottom: 70px;
+    text-transform: uppercase;
+
+}
+
+#team h3 {
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    padding-bottom: 10px;
+
+
+}
+
+#team h5 {
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+
+}
+
+.team-box {
+    background: transparent;
+    padding: 30px;
+    text-align: center;
+
+}
+
+.team-box p {
+    color: white;
+}
+
+
+.team-box img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.team-box .name {
+    color: white;
+}
+
+/* parteners*/
+
+.partner-logo {
+    width: 50px;
+    height: 130px;
+    margin-bottom: 100px;
+    filter: grayscale(10);
+    margin-top: 91px;
+    cursor: pointer;
+
+}
+
+
+.partner-logo:hover {
+
+    filter: grayscale(0);
+
+}
+
+/*Footer*/
+
+#footer {
+    background: linear-gradient(90deg, rgba(248, 203, 99, 1) 0%, rgba(207, 156, 77, 1) 100%);
+    text-align: center;
+}
+
+#footer img {
+    padding-top: 150px;
+    padding-bottom: 40px;
+}
+
+#footer h3 {
+    padding-bottom: 35px;
+    color: white;
+}
+
+#footer h4 {
+    padding-bottom: 15px;
+    color: white;
+}
+
+
+.footer_bar {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 25px;
+}
+
+/* Intro */
+
+#intro h5 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 35px;
+}
+
+/* Contact page */
+#map {
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+#header-contact {
+    background-image: linear-gradient(rgba(109, 72, 72, 0.5), rgba(0, 0, 0, 0.5)), url(../img/red-rose-flowers-bouquet-on-white-surface-beside-spring-book-1410226.jpg);
+    height: 377px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    text-align: center;
+}
+
+/* about page */
+
+#header-about {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/midsection-of-woman-making-heart-shape-with-hands-256737.jpg);
+    height: 377px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+
+#about .image {
+    padding-bottom: 30px;
+}
+
+
+/* products */
+.product {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 20px;
+
+
+}
+
+.product:hover {
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+.product img {
+    width: 100%;
+}
+
+
+.product p {
+    color: black;
+}
+
+#products {
+    padding-top: 30px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+/* jewelryy page */
+
+#header-jewelry {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/gold-plated-accessories-248077.jpg);
+    height: 377px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+
+/* dresses page */
+
+
+#header-dresses {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/woman-holding-her-high-hills-313702.jpg);
+    height: 377px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+
+/* party hall page */
+
+
+#header-party-hall {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/architecture-auditorium-blue-bright-colours-382297.jpg);
+    height: 377px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+
+
+/* music page */
+
+
+#header-music {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/close-up-photo-of-black-electric-guitar-1266821.jpg);
+    height: 377px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+/* budget page*/
+#header-budget {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/person-holding-knife-slicing-3-layer-cake-1345574.jpg);
+    height: 377px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#budget-calcul form {
+    margin-bottom: 40px;
+}
+
+
+
+/* deco page */
+#header-deco {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/pink-decoration-on-wine-glass-6306.jpg);
+    height: 377px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+
+/* Accessories page */
+
+#header-Accessories {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/white-and-green-flower-arrangement-1805597.jpg);
+    height: 377px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+/* connexion page */
+
+.containner{
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+    
+}
+/* Bordered form */
+form {
+    width:100%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.containner h1{
+    width: 38%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password], input[type=email], input[type=tel]  {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+input[type=submit] {
+    background-color: #d6a34d;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: #d6a34d;
+    border: 1px solid #d6a34d;
+}
